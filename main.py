@@ -1,32 +1,3 @@
-
-# Love Calculator
-
-In this project, you can calculate love.
-To make this project you need to follow this step:-
-
-
-
-
-
-
-
-
-
-
-## Installation
-
-Install package with pip
-
-```bash
-  pip install tkinter
-
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
 # Python Tkinter GUI based "LOVE CALCULATOR" by "Problem solve with Ridoy"
 
 import tkinter
@@ -74,25 +45,4 @@ bt.pack()
 result = Label(root, text='Love Percentage between both of You:')
 result.pack()
 
-root.mainloop() 
-```
-
-
-## Output
-
-
-
-![output](https://user-images.githubusercontent.com/123636419/216825689-6a3baf8f-54c3-4099-aa8c-737e5ba8dec2.PNG)
-
-
-
-## You can follow me
-
-Facebook:- https://www.facebook.com/problemsolvewithridoy/
-
-Linkedin:- https://www.linkedin.com/in/ridoyhossain/
-
-YouTube:- https://www.youtube.com/@problemsolvewithridoy
-
-If you have any confusion, please feel free to contact me. Thank you
-
+root.mainloop()
