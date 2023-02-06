@@ -46,3 +46,5 @@ result = Label(root, text='Love Percentage between both of You:')
 result.pack()
 
 root.mainloop()
+
+#If you have any confusion, feel free to contact me https://www.facebook.com/problemsolvewithridoy/
