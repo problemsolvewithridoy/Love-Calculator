@@ -1,7 +1,13 @@
 
 # Love Calculator
 
-In this project, you can calculate love.
+This is a Love Calculator project written in Python with an amazing GUI using the tkinter library. The project asks the user to input their name and the name of their crush, and then calculates a love percentage based on a simple algorithm. The result is displayed on the GUI, along with a funny message based on the love percentage.
+
+The project is a great way to practice your Python programming skills, especially if you're interested in creating GUI applications. The code is well-commented and easy to understand, so it's a good starting point for beginners who want to learn more about Python and GUI development.
+
+Feel free to download the code and customize it to your liking. If you find any bugs or have suggestions for improvement, please open an issue on the repository. Happy coding!
+
+
 To make this project you need to follow this step:-
 
 
